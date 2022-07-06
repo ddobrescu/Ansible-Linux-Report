@@ -1,0 +1,10 @@
+---
+- name: Scan packages of all Linux hosts
+  hosts: all
+
+  
+  tasks:
+
+    - name: Scan packages (Unix/Linux)
+      shadowman.reports.scan_packages:
+        os_family: '{{ ansible_os_family }}'
