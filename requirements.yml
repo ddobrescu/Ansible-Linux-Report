@@ -1,4 +1,0 @@
----
-collections:
-  - name: https://github.com/shadowman-lab/shadowman.reports.git
-    type: git
