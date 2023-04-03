@@ -1,6 +1,9 @@
 ---
 collections:
+  - name: community.general
+    version: '>=1.0.0'
   - name: shadowman.reports
+  
 #collections:
 #  - name: https://github.com/shadowman-lab/shadowman.reports.git
 #    type: git
