@@ -2,7 +2,9 @@
 collections:
   - name: community.general
     version: '>=1.0.0'
+    source: https://galaxy.ansible.com
   - name: shadowman.reports
+    source: https://galaxy.ansible.com
   
 #collections:
 #  - name: https://github.com/shadowman-lab/shadowman.reports.git
